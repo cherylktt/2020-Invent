@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163081829945",
+    "firebase_url": "https://quizzler-flutter-f7ec1.firebaseio.com",
+    "project_id": "quizzler-flutter-f7ec1",
+    "storage_bucket": "quizzler-flutter-f7ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163081829945:android:3d56259cb4ade5937217e8",
+        "android_client_info": {
+          "package_name": "com.ri.cherylk.quizzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163081829945-qarl0rv8o4rg3korfb6rqb3knti2fsdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm--LhmLVjJx9V5Vq1yXJrr_86TVM_qeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163081829945-qarl0rv8o4rg3korfb6rqb3knti2fsdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
