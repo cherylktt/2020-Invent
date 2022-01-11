@@ -1,5 +1,5 @@
-# Project WnFood
-
+# Project WnFood 
+Creation of an app to help reduce food wastage (unfinished)
 
 # References
 
