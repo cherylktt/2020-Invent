@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783358197098",
+    "firebase_url": "https://wnfood-853b3.firebaseio.com",
+    "project_id": "wnfood-853b3",
+    "storage_bucket": "wnfood-853b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783358197098:android:83477754143c55da4bb913",
+        "android_client_info": {
+          "package_name": "com.ri.cherylk.wnfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783358197098-h4sk7cj0u3ujteu662gfhqbkpli1fnv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbh8Z19rch2H_G-S3JKw6kMTcdtpUV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783358197098-h4sk7cj0u3ujteu662gfhqbkpli1fnv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
