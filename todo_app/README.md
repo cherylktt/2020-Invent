@@ -1,7 +1,5 @@
 # todo_app
 
-to do apped
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
