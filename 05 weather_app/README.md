@@ -11,4 +11,4 @@ This app tells you the weather based on your location by making use of weather a
 ### Packages Used
 - [Cupertino Icons](https://pub.dev/packages/cupertino_icons)
 - [Geolocator](https://pub.dev/packages/geolocator)
-- [Http](https://pub.dev/packages/http)
+- [http](https://pub.dev/packages/http)
