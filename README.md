@@ -11,5 +11,5 @@ This is a compilation of app projects built during the duration of Raffles INVEN
 6. [Prototype of WnFood](https://github.com/cherylktt/2020-Invent/tree/master/06%20wnfood)
 
 ## Devices
-Emulator: Google Pixel 3a (API 28, Android 9.0)
-Device: Oppo Reno 4 Pro CPH2109 (Android 10.0)
+- Emulator: Google Pixel 3a (API 28, Android 9.0)
+- Device: Oppo Reno 4 Pro CPH2109 (Android 10.0)
