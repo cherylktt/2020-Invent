@@ -7,8 +7,9 @@ This is a compilation of app projects built during the duration of Raffles INVEN
 2. [Random word generator](https://github.com/cherylktt/2020-Invent/tree/master/02%20random_wordgen)
 3. [Quizzler](https://github.com/cherylktt/2020-Invent/tree/master/03%20quizzler)
 4. [To Do App](https://github.com/cherylktt/2020-Invent/tree/master/04%20todo_app)
-5. [Weather App](https://github.com/cherylktt/2020-Invent/tree/master/05%20weather_app)
+5. [Weather App](https://github.com/cherylktt/2020-Invent/tree/master/05%20weather_app) (updated to latest Android Studio/Flutter version as of 18 Jan 2022)
 6. [Prototype of WnFood](https://github.com/cherylktt/2020-Invent/tree/master/06%20wnfood)
 
-## Emulator
-Google Pixel 3a (API 28, Android 9.0)
+## Devices
+Emulator: Google Pixel 3a (API 28, Android 9.0)
+Device: Oppo Reno 4 Pro CPH2109 (Android 10.0)
